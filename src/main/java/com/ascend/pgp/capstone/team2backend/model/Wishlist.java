@@ -12,7 +12,7 @@ import lombok.NoArgsConstructor;
 
 @NoArgsConstructor
 @Data
-@Document("Wishlist")
+@Document("wishlist")
 public class Wishlist {
 
 	@Id

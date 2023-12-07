@@ -9,7 +9,7 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor
 @AllArgsConstructor
 @Data
-@Document("User")
+@Document("user")
 public class User {
 
 	private String email;

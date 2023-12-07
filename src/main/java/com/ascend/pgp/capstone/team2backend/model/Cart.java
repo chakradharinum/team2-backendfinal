@@ -11,7 +11,7 @@ import lombok.NoArgsConstructor;
 
 @NoArgsConstructor
 @Data
-@Document("Cart")
+@Document("cart")
 public class Cart {
 
 	@Id
